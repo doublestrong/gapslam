@@ -1,5 +1,5 @@
 # GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM
-This work aims to infer marginal posteriors of robot poses and landmark locations encountered in SLAM via real-time operation.
+This work aims to infer marginal posteriors of robot poses and landmark locations encountered in SLAM via real-time operation. [Paper](https://arxiv.org/pdf/2303.14283.pdf)
 
 ## Approach
 <img src="docs/img/gapslam_approach.png" alt="drawing" width="60%"/>
