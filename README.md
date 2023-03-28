@@ -27,7 +27,7 @@ will be released soon.
 @article{huang2023gapslam,
   title={{GAPSLAM}: Blending {G}aussian Approximation and Particle Filters for Real-Time Non-{G}aussian {SLAM}},
   author={Qiangqiang Huang and John J. Leonard},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2303.14283},
   year={2023}
 }
 ```
