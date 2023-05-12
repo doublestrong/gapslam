@@ -16,8 +16,7 @@ sample.
 
 ## Teaser video
 
-https://user-images.githubusercontent.com/5796120/227429210-1b4cc67e-ec85-4073-b194-3746663c0fc2.mov
-
+https://github.com/doublestrong/gapslam/assets/5796120/f03ed1ad-6e60-47dc-b4fb-53922a682f7d
 
 ## Code and examples
 will be released soon.
