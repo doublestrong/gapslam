@@ -1,0 +1,15 @@
+dynesty==1.1
+evo==1.19.1
+matplotlib==3.5.1
+pandas==1.4.1
+scikit_learn==1.0.2
+scipy==1.8.0
+seaborn==0.11.2
+setuptools==58.0.4
+TransportMaps==2.0b3
+open3d==0.15.2
+gtsam==4.2a7
+joblib==1.1.0
+numba
+pymongo
+redis
