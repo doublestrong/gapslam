@@ -29,7 +29,11 @@ We provide the code and examples about the algorithms described in the paper. A 
 
 ## Teaser video
 
-https://github.com/doublestrong/gapslam/assets/5796120/f03ed1ad-6e60-47dc-b4fb-53922a682f7d
+
+
+https://github.com/doublestrong/gapslam/assets/5796120/0ce84ab4-0440-4502-8dba-fbdec63b9036
+
+
 
 The following instruction was tested on Ubuntu 20.04.
 
