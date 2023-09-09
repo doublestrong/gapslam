@@ -31,7 +31,10 @@ We provide the code and examples about the algorithms described in the paper. A 
 
 
 
-https://github.com/doublestrong/gapslam/assets/5796120/0ce84ab4-0440-4502-8dba-fbdec63b9036
+
+https://github.com/doublestrong/gapslam/assets/5796120/1c151fde-5e10-44a2-8e95-ce29a2737372
+
+
 
 
 
