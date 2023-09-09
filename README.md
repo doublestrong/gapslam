@@ -1,12 +1,12 @@
 # GAPSLAM: Blending Gaussian Approximation and Particle Filters for Real-Time Non-Gaussian SLAM
-This is the codebase for the GAPSLAM paper. This work aims to infer marginal posteriors of robot poses and landmark locations encountered in SLAM via real-time operation. [Paper](https://arxiv.org/pdf/2303.14283.pdf)
+This is the codebase for the GAPSLAM paper. This work aims to infer marginal posteriors of robot poses and landmark locations encountered in SLAM via real-time operation. The paper has been accepted at IROS 2023. [Link to the arXiv version](https://arxiv.org/pdf/2303.14283.pdf)
 
 ## Citation
 ```bibtex
-@article{huang2023gapslam,
+@inproceedings{huang23gapslam,
   title={{GAPSLAM}: Blending {G}aussian Approximation and Particle Filters for Real-Time Non-{G}aussian {SLAM}},
   author={Qiangqiang Huang and John J. Leonard},
-  journal={arXiv preprint arXiv:2303.14283},
+  booktitle={Proc. IEEE/RSJ Int. Conf. Intell. Robots Syst.},
   year={2023}
 }
 ```
@@ -16,7 +16,7 @@ This is the codebase for the GAPSLAM paper. This work aims to infer marginal pos
 
 Illustration of our method: (a) a SLAM example, where the robot moves along poses in
 green and makes measurements to landmarks in red, and (b) our method,
-which blends Gaussain approximation in yellow and particle filters in pink.
+which blends Gaussian approximation in yellow and particle filters in pink.
 The Gaussian approximation, centered on the maximum a posteriori (MAP)
 estimate, provides robot pose distributions on which the particle filters are
 conditioned to draw samples that represent landmark distributions. If a
@@ -25,11 +25,18 @@ the posterior, landmarks in the Gaussian solver will be re-initialized by that
 sample.
 
 
-We provide the code and examples about the algorithms described in the paper. A teaser video about the work:
+We provide the code and examples of the algorithms described in the paper. A teaser video about the work:
 
 ## Teaser video
 
-https://github.com/doublestrong/gapslam/assets/5796120/f03ed1ad-6e60-47dc-b4fb-53922a682f7d
+
+
+
+https://github.com/doublestrong/gapslam/assets/5796120/1c151fde-5e10-44a2-8e95-ce29a2737372
+
+
+
+
 
 The following instruction was tested on Ubuntu 20.04.
 
